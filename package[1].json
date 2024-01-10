@@ -1,0 +1,23 @@
+{
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/frncsryddlbg/ThesisFinal/issues"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "description": "",
+  "homepage": "https://github.com/frncsryddlbg/ThesisFinal#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "thesisfinal",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frncsryddlbg/ThesisFinal.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "version": "1.0.0",
+  "keywords": []
+}
